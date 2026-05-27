@@ -1,1 +1,31 @@
+для скачивания кода требуютс следующие файлы в таком порядке:
+main.py
+text_font.ttf
+progress.json
+sounds/
+    sound1
+    sound2
+    ...
+img/
+    fruits/
+        face1
+        face2
+        ...
+    minions/
+        face1
+        face2
+        ...
+    fruits/
+        face1
+        face2
+        ...
+    pickme/
+        face1
+        face2
+        ...
+    notpickme/
+        face1
+        face2
+        ...
+
 
